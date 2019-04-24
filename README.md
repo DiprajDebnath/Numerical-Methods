@@ -1,2 +1,2 @@
-# Numerical-Methods-Numerical-Solutions-of-Equations
+# C
 Numerical Methods and Computer Programming (NMCP)
