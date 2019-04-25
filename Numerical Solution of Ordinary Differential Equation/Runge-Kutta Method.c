@@ -38,7 +38,6 @@ main()
     	printf("k4 = %f\n",k4);
     	
     	y1 = y0 + (1/6.0)*(k1 + 2*k2 + 2*k3 + k4);
-    	printf("k5 = %f\n",y1);
     	
     	x1 = x0+h;
     	x0 = x1;
