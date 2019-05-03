@@ -37,7 +37,7 @@ main()
     {
         y1 = y0 + h * f(x0, y0);
         x1 = x0 + h;
-        y11 = y0 + (h/2) * (f(x0, y0) + f(x1,y1));
+        y11 = (y0 + (h/2)) * (f(x0, y0) + f(x1,y1));
         
         while(fabs(y1-y11) > e)//corrector
         {
